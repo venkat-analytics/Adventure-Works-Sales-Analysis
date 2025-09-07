@@ -51,7 +51,7 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 - Quarterly profit trends  
 - Country-wise filters  
 
-📷 Screenshot:  
+📷 Time Analysis:  
 <img width="1707" height="859" alt="Screenshot 2025-09-05 234404" src="https://github.com/user-attachments/assets/99901bed-def5-47d4-b90c-d666c8f315e3" /> 
 
 ---
