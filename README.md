@@ -122,7 +122,7 @@ git clone https:https://github.com/Venkatdotcom/Adventure-Works-Sales-Analysis
 
 👤 Kunapareddy Venkata Ramaiah
 
-📧 Email: [your-email]
+📧 Email: [venkat198881@gmail.com]
 
 🔗 LinkedIn: [your-linkedin]
 
