@@ -105,7 +105,7 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Adventure-Works-Sales-Analysis.git
+git clone https:https://github.com/Venkatdotcom/Adventure-Works-Sales-Analysis
 
 
 2. Open the AdventureWorks.xlsx file in Excel
