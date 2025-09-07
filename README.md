@@ -126,7 +126,7 @@ git clone https:https://github.com/Venkatdotcom/Adventure-Works-Sales-Analysis
 
 🔗 LinkedIn: [https://www.linkedin.com/in/venkat-7b7197334/?trk=public-profile-join-page]
 
-📂 Portfolio: [your-portfolio-link]
+📂 Portfolio: [https://venkatdotcom.github.io/data-analysis-portfolio/]
 
 
 
