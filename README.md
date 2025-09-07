@@ -76,7 +76,64 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 - 📌 *Weekdays* generated 72.3% of total profit  
 - 📌 *Top 5 customers* contributed significantly to overall profit  
 - 📌 Customers aged *50+* contributed ~40% of total profit  
-- 📌 *Australia & United States* together accounted for 60.1% of total profit  
+- 📌 *Australia & United States* together accounted for 60.1% of total profit
+ ---
+
+📂 Repository Structure
+📦 Adventure-Sales-Analysis
+│
+├── 📂 data
+│   ├── raw_dataset.xlsx              # Original unprocessed dataset
+│   ├── cleaned_dataset.xlsx          # Cleaned & transformed dataset
+│
+├── 📂 dashboard
+│   ├── Sales_Analysis_Dashboard.xlsm # Excel file with macros, charts, nav tabs
+│
+├── 📂 screenshots
+│   ├── dashboard_view1.png           # Screenshot of Dashboard (main view)
+│   ├── dashboard_view2.png           # Screenshot (filters applied)
+│
+├── 📂 reports
+│   ├── Insights_Report.pptx          # PowerPoint report with insights
+│   ├── Insights_Report.pdf           # PDF report (same as PPT export)
+│
+├── LICENSE                           # MIT License file
+├── README.md                         # Project documentation
+---
+
+📌 How to Use
+
+1. Clone the repository
+
+git clone https://github.com/your-username/Adventure-Works-Sales-Analysis.git
+
+
+2. Open the AdventureWorks.xlsx file in Excel
+
+
+3. Use slicers, buttons, and navigation tabs to explore dashboards
+
+
+
+
+---
+
+📬 Contact
+
+👤 Kunapareddy Venkata Ramaiah
+
+📧 Email: [your-email]
+
+🔗 LinkedIn: [your-linkedin]
+
+📂 Portfolio: [your-portfolio-link]
+
+
+
+---
+
+
+ 
 
 
 
