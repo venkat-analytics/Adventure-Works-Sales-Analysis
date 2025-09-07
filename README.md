@@ -63,8 +63,9 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 - Customer demographics (age & gender)  
 - Country & region contribution to total profit  
 
-📷 Screenshot:  
-![Detailed Dashboard](Dashboards/dashboard2.png)  
+📷 Detailed Dashboard:  
+<img width="1704" height="858" alt="Screenshot 2025-09-04 234708" src="https://github.com/user-attachments/assets/6a9a5d10-aadf-45e0-b3ec-b10413a75372" />
+  
 
 ---
 
