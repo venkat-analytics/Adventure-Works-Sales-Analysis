@@ -83,22 +83,22 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 📦 Adventure-Sales-Analysis
 │
 ├── 📂 data
-│   ├── raw_dataset.xlsx              # Original unprocessed dataset
-│   ├── cleaned_dataset.xlsx          # Cleaned & transformed dataset
+│   ├── raw_dataset.xlsx              
+│   ├── cleaned_dataset.xlsx          
 │
 ├── 📂 dashboard
-│   ├── Sales_Analysis_Dashboard.xlsm # Excel file with macros, charts, nav tabs
+│   ├── Sales_Analysis_Dashboard.xlsm 
 │
 ├── 📂 screenshots
-│   ├── dashboard_view1.png           # Screenshot of Dashboard (main view)
-│   ├── dashboard_view2.png           # Screenshot (filters applied)
+│   ├── dashboard_view1.png           
+│   ├── dashboard_view2.png           
 │
 ├── 📂 reports
-│   ├── Insights_Report.pptx          # PowerPoint report with insights
-│   ├── Insights_Report.pdf           # PDF report (same as PPT export)
+│   ├── Insights_Report.pptx          
+│   ├── Insights_Report.pdf           
 │
-├── LICENSE                           # MIT License file
-├── README.md                         # Project documentation
+├── LICENSE                           
+├── README.md                        
 ---
 
 📌 How to Use
