@@ -16,6 +16,12 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 
 ---
 
+## Tools Used:  
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="13%" />
+
+---
+
 ## 🧑‍💻 Skills Highlighted  
 - ✅ *Data Cleaning & Transformation* – Power Query, removing duplicates, handling missing values  
 - ✅ *Data Modeling* – Building relationships between multiple tables  
