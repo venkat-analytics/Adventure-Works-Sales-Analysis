@@ -79,27 +79,6 @@ The dashboards highlight business insights around *revenue, profit, customers, p
 - 📌 *Australia & United States* together accounted for 60.1% of total profit
  ---
 
-📂 Repository Structure
-📦 Adventure-Sales-Analysis
-│
-├── 📂 data
-│   ├── raw_dataset.xlsx              
-│   ├── cleaned_dataset.xlsx          
-│
-├── 📂 dashboard
-│   ├── Sales_Analysis_Dashboard.xlsm 
-│
-├── 📂 screenshots
-│   ├── dashboard_view1.png           
-│   ├── dashboard_view2.png           
-│
-├── 📂 reports
-│   ├── Insights_Report.pptx          
-│   ├── Insights_Report.pdf           
-│
-├── LICENSE                           
-├── README.md                        
----
 
 📌 How to Use
 
